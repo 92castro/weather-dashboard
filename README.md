@@ -22,6 +22,14 @@ THEN I am presented with a 5-day forecast that displays the date, an icon repres
 WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
+## Credits
+
+I used a third API to capture the weather forecast from the city. I also used bootstrap to construct some of the styling for the app.
+
+-https://openweathermap.org/api
+
+-https://getbootstrap.com/
+
 ## Review
 
 My github repository page:
