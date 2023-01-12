@@ -40,4 +40,4 @@ My page developed:
 
 - https://92castro.github.io/weather-dashboard/
 
-![screenshot of my project](/assets/weather.PNG)
+![screenshot of my project](assets/weatherdash.PNG)
