@@ -3,7 +3,7 @@ import DetailCard from "./Components/DetailCard";
 import Header from "./Components/Header";
 import SummaryCard from "./Components/SummaryCard";
 function App() {
-  const API_KEY = "402ec6a1b913f7427fae9503e9a1a985";
+  const API_KEY = process.env.REACT_APP_API_KEY;
   console.log(API_KEY);
 
   const [noData, setNoData] = useState("No Data Yet");
