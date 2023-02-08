@@ -1,0 +1,32 @@
+.App {
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  background-color: rgb(168, 210, 232);
+}
+
+header {
+  background-color: rgb(142, 136, 136);
+  color: rgb(43, 35, 35);
+}
+
+h3 {
+  font-size: 35px;
+}
+
+h4 {
+  font-size: 20px;
+}
+
+#main {
+  padding-top: 10px;
+}
+
+#title {
+  margin-top: 15px;
+}
